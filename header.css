@@ -144,6 +144,12 @@ nav a:hover {
     color: #fff;
     margin-left: 80px;
 }
+
+h1 {
+    margin-bottom: 48px;
+    margin-top: 36px;
+}
+
 .promotedArticles {
     margin-top: 55px;
     margin-bottom: 80px;
